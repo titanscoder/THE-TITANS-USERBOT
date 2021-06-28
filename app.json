@@ -1,9 +1,9 @@
 {
-  "name":"Javes-3.0",
-  "description": "Dont forget to read instructions on top of each box",
-  "logo": "https://telegra.ph/file/8e5138dfc400730a2396c.jpg",
-  "keywords": ["telegram","upgraded","moded","javes","userbot","javes-3.0"],
-  "repository": "https://github.com/Sh1vam/javes-3.0",
+  "name":"THE TITANS USERBOT",
+  "description": "INSTRUCTIONS ARE GIVEN ON THE TOP OF EACH BOX OF ENV VARS",
+  "logo": "https://telegra.ph/file/01bb8b88b3db827ee03d3.jpg",
+  "keywords": ["telegram","upgraded","moded","TITANS","userbot","TIANS_UB"],
+  "repository": "https://github.com/titanscoder/THE-TITANS-USERBOT",
   "addons": [
     {
       "plan": "heroku-postgresql",
@@ -24,12 +24,12 @@
     },
     "PROFILE_PPP": {
       "description": "for your personal custom javes cmd",
-      "value": "https://telegra.ph/file/8e5138dfc400730a2396c.jpg",
+      "value": " past ur desired image in telegraph url form ",
       "required": false
     },
     "TG_API_HASH": {
       "description": "Get this value from my.telegram.org. Don't Steal may Your Account Get ban.[IMPORTANT]",
-      "value": "db8992ae5fbf9b925273937b134f3407"
+      "value": "paste the api hash valu u get from the website given on box "
     },
     "TG_STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]",
@@ -37,7 +37,7 @@
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes 3.0 up-to-date , get it from 'https://dashboard.heroku.com/account. see example below ",
-      "value": "fc8e5e3a-6c85-4185-8d17-046b7e5cbb9d"   
+      "value": "follow the instructions and paste the api key here "   
     },
     "HEROKU_APPNAME": {
       "description": "enter this app name again here, very important for !update command to make javes 3.0 up-to-date ",
@@ -55,17 +55,17 @@
     },
     "PROFILE_PP": {
       "description": "Your photo link for !autopic command and your own personal custom alive cmd",
-      "value": "https://telegra.ph/file/5d084db1197c6e7f0db59.jpg",
+      "value": "paste ur desired image in telegraph url form",
       "required": false
     },
     "ALIVE_MEDIA2": {
       "description": "any media link for !bot cmd",
-      "value": "https://telegra.ph/file/b18ea7028b1cde8a0c573.mp4",
+      "value": "paste ur desired image/video in telegraph url form",
       "required": false
     },
     "ALIVE_MEDIA1": {
       "description": "any media link for !me cmd",
-      "value": "https://telegra.ph/file/ccc536e748881fbe6ac24.mp4",
+      "value": "paste ur desired image/video in telegraph url form",
 	  "required": false
     },
     "OPEN_WEATHER_MAP_APPID": {
@@ -90,12 +90,12 @@
     },
     "BOTLOG_CHATID": {
       "description": "Important for wark some plugins,bot logs , make super group with @missrose_bot then type /id to get this value",
-      "value": "-1001417703271",
+      "value": "paste the value start with -10014xxxxx",
       "required": true
     },
     "PMLOG_CHATID": {
       "description": "Important for work some plugins,like pm loging , make super group with @missrose_bot then type /id to get this value",
-      "value": "-1001159218396",
+      "value": "paste the value start with -10014xxxxx",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -144,13 +144,13 @@
       "required": false      
     },
     "ALIVE_S_MESSAGE": {
-      "description": "Edit if you want",
-      "value": "Javes 3.0 is Alive with Necessary Dynos",
+      "description": "DONT EDIT IT",
+      "value": "TITANS USERBOT IS ON FIRE🔥 LETS ROCK BUDDY",
       "required": false 
     },
     "ALIVE_E_MESSAGE": {
       "description": "Edit if you want",
-      "value": "My Databases functioning normally!!",
+      "value": "THE TITANS USERBOT DATABASE FUNCTIONING NORMALLY!!",
       "required": false    
     },
     "BIO_MESSAGE": {
@@ -158,11 +158,8 @@
       "value": "Current date",
       "required": false  
     },
-    "JAVES_NAME": {
-      "description": "You can edit bot's name",
-      "value": "Javes 3.0",
-      "required": false
-    },
+    
+    
     "PM_MESSAGE": {
       "description": "you can edit what pm_protecter message!",
       "value": "Hello Sir, I can't allow you to my master's PM without his permissions please be patient, Thankyou",
@@ -178,11 +175,7 @@
       "value": "I am not going to allow you to spam My master's PM, You have been blocked!",
       "required": false
     },
-    "YOUR_SHORT_NAME": {
-      "description": "Name to show in !javes message!",
-      "value": "Javes",
-      "required": true
-    },
+    
     "LYDIA_API_KEY": {
       "description": "need for auto replay (lydia) future get api key from https://coffeehouse.intellivoid.net/",
       "value": "enter lydia api key here",
@@ -200,7 +193,7 @@
     },
     "TAG_LOG": {
       "description": "Important for wark some plugins,taglogs logs , make super group with @missrose_bot then type /id to get this value then add your inline bot if u have set later on add some vars TG_BOT_USER_NAME_BF_HER , TG_BOT_TOKEN_BF_HER ,INLINE_MODE=True,then add your inline bot in yout personal group",
-      "value": "-1001230114424",
+      "value": "-100123011XXX",
       "required": true
     },
     "TG_BOT_USER_NAME_BF_HER": {
@@ -210,7 +203,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the token of your bot. And Don't Forget To Turn of inline Mode on bot settings. Get it.",
-      "value": "1330445306:AAGiAGqYEi-tDtZeHP36gi4P3BNvLk-Mc6Q",
+      "value": "pate the token here",
       "required": true
     },
     "INLINE_MODE": {
@@ -220,22 +213,22 @@
     },
     "BOT_TOKEN": {
       "description": "Enter same value u entered in TG_BOT_TOKEN_BF_HER",
-      "value": "1330445306:AAGiAGqYEi-tDtZeHP36gi4P3BNvLk-Mc6Q",
+      "value": "paste token here",
       "required": true
     },
     "WAFU_CHATID": {
       "description": "To Log ALL WAFU NAMES WHERE U CAN'T USE !savewafu FOR AUTO /protecc for @loli_harem_bot",
-      "value": "-1001472904163",
+      "value": "-1001472xxxx",
       "required": false
     },    
 	"FED_LOGGER": {
       "description": "for fban-unfban module add @MissRose_bot to that group make it admin get that group id by /id cmd and u r ready to go else there may be error",
-      "value": "-1001451354500",
+      "value": "-1001451xxx",
       "required": false
     },
     "PLUGIN_CHANNEL": {
       "description": "for !extdl command to install external modules that are in your channel or u keep in your  channel to install them externally", 
-      "value": "-1001336057285",
+      "value": "-100133605xxxx",
       "required": false
     }
   }
