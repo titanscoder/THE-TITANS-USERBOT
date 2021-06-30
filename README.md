@@ -23,6 +23,15 @@ published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
 [💎UPDATE CHANNEL💎](https://t.me/THETITANS_USERBOT)
+
 [★彡SUPPORT GROUP彡★](https://t.me/THETITANS_USERBOT_HELP)
+
 [★彡THE TITANS UB DEVS彡★](https://t.me/THETITANS_USERBOT_HELP)
+
 [TITANS HERAT DEV❤️](https://t.me/realtitan)
+
+CREDITS-
+
+JARVIS
+PYTHON PIRATES
+UBN TELEGRAM
