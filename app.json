@@ -15,7 +15,7 @@
   "env": {
     "TG_API_KEY": {
       "description": "Get this value from my.telegram.org. Don't Steal May Your Account Get ban.[IMPORTANT]",
-      "value": "1696457"
+      "value": ""
     },
     "MAX_FLOOD_IN_P_M_S": {
       "description": "For Pm Protect Warns ",
@@ -24,12 +24,12 @@
     },
     "PROFILE_PPP": {
       "description": "for your personal custom javes cmd",
-      "value": " past ur desired image in telegraph url form ",
+      "value": "  ",
       "required": false
     },
     "TG_API_HASH": {
       "description": "Get this value from my.telegram.org. Don't Steal may Your Account Get ban.[IMPORTANT]",
-      "value": "paste the api hash valu u get from the website given on box "
+      "value": " "
     },
     "TG_STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]",
@@ -59,8 +59,8 @@
       "required": false
     },
     "ALIVE_MEDIA2": {
-      "description": "any media link for !bot cmd",
-      "value": "paste ur desired image/video in telegraph url form",
+      "description": "any media link (telegraph form)  for !bot cmd",
+      "value": "",
       "required": false
     },
     "ALIVE_MEDIA1": {
@@ -80,22 +80,22 @@
     },
     "CUSTOM_CMD2": {
       "description": "For Custom Javes Cmd",
-      "value": "!sh1vam",
+      "value": "!titan",
       "required": false
     },
     "CUSTOM_CMD": {
       "description": "For Custom Alive Cmd",
-      "value": "!shivam",
+      "value": "!titan",
       "required": false
     },
     "BOTLOG_CHATID": {
       "description": "Important for wark some plugins,bot logs , make super group with @missrose_bot then type /id to get this value",
-      "value": "paste the value start with -10014xxxxx",
+      "value": "",
       "required": true
     },
     "PMLOG_CHATID": {
       "description": "Important for work some plugins,like pm loging , make super group with @missrose_bot then type /id to get this value",
-      "value": "paste the value start with -10014xxxxx",
+      "value": "",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -193,7 +193,7 @@
     },
     "TAG_LOG": {
       "description": "Important for wark some plugins,taglogs logs , make super group with @missrose_bot then type /id to get this value then add your inline bot if u have set later on add some vars TG_BOT_USER_NAME_BF_HER , TG_BOT_TOKEN_BF_HER ,INLINE_MODE=True,then add your inline bot in yout personal group",
-      "value": "-100123011XXX",
+      "value": "",
       "required": true
     },
     "TG_BOT_USER_NAME_BF_HER": {
@@ -213,22 +213,22 @@
     },
     "BOT_TOKEN": {
       "description": "Enter same value u entered in TG_BOT_TOKEN_BF_HER",
-      "value": "paste token here",
+      "value": "",
       "required": true
     },
     "WAFU_CHATID": {
       "description": "To Log ALL WAFU NAMES WHERE U CAN'T USE !savewafu FOR AUTO /protecc for @loli_harem_bot",
-      "value": "-1001472xxxx",
+      "value": "",
       "required": false
     },    
 	"FED_LOGGER": {
       "description": "for fban-unfban module add @MissRose_bot to that group make it admin get that group id by /id cmd and u r ready to go else there may be error",
-      "value": "-1001451xxx",
+      "value": "",
       "required": false
     },
     "PLUGIN_CHANNEL": {
       "description": "for !extdl command to install external modules that are in your channel or u keep in your  channel to install them externally", 
-      "value": "-100133605xxxx",
+      "value": "",
       "required": false
     }
   }
