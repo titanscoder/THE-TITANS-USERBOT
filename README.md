@@ -1,9 +1,6 @@
 THE TITANS USERBOT IS PART OF TITANS NETWORK AND CREATED BY TITANS DEVS-
 
-[💎UPDATE CHANNEL💎](https://t.me/THETITANS_USERBOT)
-[★彡SUPPORT GROUP彡★](https://t.me/THETITANS_USERBOT_HELP)
-[★彡THE TITANS UB DEVS彡★](https://t.me/THETITANS_USERBOT_HELP)
-[TITANS HERAT DEV❤️](https://t.me/realtitan)
+ 
 <p align="center">
   <img src="https://telegra.ph/file/a4757944330e144790425.jpg">
 </p>
@@ -24,3 +21,8 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
+
+[💎UPDATE CHANNEL💎](https://t.me/THETITANS_USERBOT)
+[★彡SUPPORT GROUP彡★](https://t.me/THETITANS_USERBOT_HELP)
+[★彡THE TITANS UB DEVS彡★](https://t.me/THETITANS_USERBOT_HELP)
+[TITANS HERAT DEV❤️](https://t.me/realtitan)
